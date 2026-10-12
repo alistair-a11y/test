@@ -6,7 +6,7 @@
 - **Status of NCC text.** Explanatory Information is non-mandatory (A1G4(1)(a)); a Note is mandatory (A1G4(3)(g)).
 - **Volume One** clauses are used only for drafting comparison. They do not apply to Class 1 buildings.
 
-**Characterisation.** As the requester specifies, the element is treated as a **shading device** of the dwelling, not as a roof or a separate structure. Section 7 notes the one point that would change if a particular installation were classed otherwise.
+**Characterisation.** As the requester specifies, the element is treated as an operable or removable **shading device** of the dwelling, not as a roof or a separate structure. Examples are a louvred pergola, a retractable awning and a removable shade sail. The analysis is the same for each type. Only what counts as ordinary operation differs (section 4.4). Section 7 notes the one point that would change if a particular installation were classed otherwise.
 
 ---
 
@@ -23,7 +23,7 @@
 ### (b) May the factor vary by month?
 
 - **Wording.** Nothing in H6V2 addresses shading operation, months or seasons. Monthly factors are not prohibited as a modelling technique.
-- **My interpretation.** Monthly variation is acceptable if the timetable records a reasonable, documented way of operating the device, consistent with the function of a shading device.
+- **My interpretation.** Monthly variation is acceptable if the timetable records a reasonable, documented way of operating the device, consistent with the function of a shading device. For a device that is installed, extended or opened by season, such as a shade sail, awning or louvred pergola, a monthly factor is a natural way to represent that operation.
 
 ### (c) The 1.0 / 0.2 example
 
@@ -143,7 +143,7 @@ NatHERS guidance on modelling adjustable shading was not reviewed or relied on. 
 
 ### 4.1 Monthly variation as a technique
 
-H6V2(4)(b) requires only that the method be *capable of* modelling "glazing and shading". Nothing requires shading to be static or to respond hour by hour. Real adjustable devices change position, so a fixed factor for each month is a coarse but legitimate way to represent operation. I do not read H6V2 as prohibiting it.
+H6V2(4)(b) requires only that the method be *capable of* modelling "glazing and shading". Nothing requires shading to be static or to respond hour by hour. Real operable and removable devices change state: louvres open and close, awnings extend and retract, and shade sails go up and come down. A fixed factor for each month is therefore a coarse but legitimate way to represent operation. I do not read H6V2 as prohibiting it.
 
 ### 4.2 Whether the reference may carry this shading device
 
@@ -187,7 +187,15 @@ The first three rows hold in every case, because each compares states that diffe
 - **Qualifying devices.** An adjustable device relied on in the DTS must be "capable of restricting at least 80% of the summer solar radiation" (13.3.4(1)(b)(i)). It is then treated as P/H 2.00 in both checks (Figure 13.3.2b Note (a)). The DTS never models one as deployed in winter and open in summer.
 - **Seasonal logic.** The 13.3.4 Explanatory Information states that summer sun should be restricted and winter sun admitted. It is non-mandatory and framed around fixed devices, so I apply it by analogy only.
 
-The example runs the device the other way round: opaque when heating dominates, and largely open (a factor of 0.2) when cooling dominates.
+**Ordinary operation of the device types mentioned.**
+
+| Device | Ordinary seasonal use | Example timetable |
+|---|---|---|
+| Removable shade sail | Installed for the warmer months, taken down for winter | Sail fully up in heating-dominated months, mostly open in cooling-dominated months |
+| Retractable awning | Extended in sunny or warm periods, retracted for winter sun (and in high wind) | Extended in heating-dominated months, largely retracted in cooling-dominated months |
+| Louvred pergola | Louvres closed for summer shade, opened for winter sun; often motorised, sometimes closing automatically on rain | Closed through heating-dominated months, largely open through cooling-dominated months |
+
+For each type, the example runs the device the other way round: opaque when heating dominates, and largely open (a factor of 0.2) when cooling dominates. Closing a louvred pergola for rain is a plausible winter behaviour. A documented weather-driven rule would close it intermittently, however, not hold it opaque for whole heating-dominated months. Nor would such a rule explain leaving it largely open through summer.
 
 **Interaction with the premise** (noted, not re-argued):
 - The exposure factors fall as P/H rises, so shading never helps in the winter check. 13.3.4 governs only reliance on shading, so it is not what keeps a winter-deployed device out of 13.3.2. That exclusion rests on the premise.
@@ -258,7 +266,7 @@ Its statement that "degree of shading" can be changed is nonetheless consistent 
 
 **C. Recommendations**
 
-10. If the reference includes this device, model it at a fixed factor, or with ordinary operation (deployed in cooling-dominated months, open in heating-dominated months). Report its effect on both reference loads.
+10. If the reference includes this device, model it either at a fixed factor or with ordinary operation for its type: deployed or installed in cooling-dominated months, and open, retracted or removed in heating-dominated months (section 4.4). Report its effect on both reference loads.
 11. If seasonal variation is used, define the seasons from climate data or the device's specification, not from the reference's loads.
 12. Report sensitivity cases. Where the device is also in the proposed design, apply each case to both models. Show that the compliance result is the same in every case. If it is not, rely on a case consistent with item 7 and record the dependence as a condition or limitation under A2G2(4)(d)(v). The cases are:
     - device absent;
@@ -282,7 +290,7 @@ Its statement that "degree of shading" can be changed is nonetheless consistent 
 - **The central question.** Whether the timetable of a reference shading device is a free choice for the assessor (the literal reading), or must be a reasonable assumption about how such a device operates (my reading). The text does not say.
 - **Same device in both models.** Whether it must carry the same timetable in each. This is interpretation only.
 - **H6V2(2) and the winter check.** Whether the reference's 13.3.2 check may disregard a device that its own simulation deploys in winter. This is settled here only by the premise.
-- **Characterisation.** This review treats the element as a shading device of the dwelling, as the requester specifies. If an appropriate authority instead classed a particular installation as a separate structure, H6V2(3)(c) would require the same "impact of adjoining structures and features" in both models. A reference-only element would then not comply.
+- **Characterisation.** This review treats the element as a shading device of the dwelling, as the requester specifies. If an appropriate authority instead classed a particular installation as a separate structure (for example, a free-standing pergola or a sail on its own posts), H6V2(3)(c) would require the same "impact of adjoining structures and features" in both models. A reference-only element would then not comply.
 - **Acceptance.** How far an appropriate authority may refuse an analysis that meets every express term because of an operating assumption the clause does not mention. This depends on state legislation and practice.
 - **Size of the effect.** The directions are set out in section 4.4. The size depends on geometry, orientation, climate zone and how the software applies the factor.
 - **Jurisdiction.** The XML records the following variations:
