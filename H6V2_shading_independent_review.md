@@ -244,6 +244,8 @@ Its statement that "degree of shading" can be changed is consistent with the wor
 
 ## 6. Requirements and restrictions on the monthly variation
 
+The NCC wording sets no limit specific to how the reference shading varies: not on the monthly values, and not on how they are chosen. Part A lists the general H6V2 requirements that apply to every reference input, including this one. Parts B and C are my interpretation and recommendations. They are not NCC limitations.
+
 **A. Express wording**
 1. The reference must comply with the DTS Provisions of Parts 13.2, 13.3 and 13.5 (H6V2(2)). On the premise, the device is excluded from the glazing calculation, so it cannot contribute to that compliance.
 2. The reference's shading, including its monthly values, may differ from the proposed building's. This follows from omission from the closed list in H6V2(3), and handbook p 103 confirms it.
