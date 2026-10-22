@@ -6,29 +6,29 @@ Oct 22, 2026 · @Alistair
 
 Lead with the Code, not an attack on NatHERS. Show builders the NCC offers more than one valid way to comply, prove the savings on real jobs, and use NatHERS's own words on what a star rating measures.
 
-The harder problem is incentives: many builders earn margin on 7-star upgrades, and a Performance Solution costs about ten times a NatHERS rating. So start with builders who compete on price, take the fee risk off the rest, and give homeowners the question to ask. Brief surveyors and Centurion Framing's network first; go public once approved case studies exist.
+The harder problem is incentives: many builders earn margin on 7-star upgrades, and a Performance Solution costs about ten times a NatHERS rating. So start with builders who compete on price, take the fee risk off the rest, and give homeowners the question to ask. Brief surveyors and the builder network of Centurion Framing Systems (CFS) first; go public once approved case studies exist.
 
 Ready-to-adapt posts, scripts and copy are in [Draft content](Performance_Solutions_draft_content.md).
 
 ## What we're up against
 
-Builders aren't choosing NatHERS; they're defaulting to it. Around nine in ten new homes take the NatHERS route, and the belief that the alternative is a loophole has a real history the campaign must answer, not ignore.
+Builders aren't choosing NatHERS; they're defaulting to it. Nationally, around nine in ten new homes take the NatHERS route, and the belief that the alternative is a loophole has a real history the campaign must answer, not ignore.
 
 | What builders believe | What the rules actually say | Where |
 | --- | --- | --- |
 | NatHERS 7 stars is the only way to comply | The Performance Requirements are the mandatory part of the NCC. They are met by a Performance Solution, a Deemed-to-Satisfy Solution, or a combination. For a house, a NatHERS rating is one Deemed-to-Satisfy option for thermal performance (H6P1); the elemental provisions are another; H6V2 verifies a Performance Solution. | NCC 2022 Vol Two A2G1(2), H6D2, H6V2 |
-| 7 stars is the gold standard | 7 stars is the minimum for the NatHERS option. The ABCB says "all compliance options aim to offer an equivalent level of performance". | ABCB Housing energy efficiency handbook (2024), pp 10 and 111 |
+| 7 stars is the gold standard | 7 stars is the minimum for the NatHERS option (6 to 6.5 in climate zones 1 and 2 with a qualifying outdoor living area). The ABCB says "all compliance options aim to offer an equivalent level of performance". | ABCB Housing energy efficiency handbook (2024), pp 10 and 111 |
 | A Performance Solution is a loophole | It carries more process, not less: a performance-based design brief prepared with stakeholders, analysis, evaluation against acceptance criteria, and a final report. WA's regulator: it "is not a mechanism for accepting non-compliance… rather it is a pathway for demonstrating compliance". | NCC A2G2(4); WA Industry Bulletin 102 |
 | The surveyor won't accept it | In WA a registered building surveyor approves a Performance Solution when issuing the Certificate of Design Compliance, and the permit application must list each one. Involving the surveyor in the design brief is how acceptance is won. | WA Industry Bulletin 102; Building Regulations 2012 r 16(3)(c) |
 
 Why the beliefs persist:
 
 - **Habit.** NatHERS is what assessors are accredited to deliver and what builders already know.
-- **History.** In 2017 The Conversation and the ABC reported builders using the older reference-building method to pass houses "well short of the six-star standard". The ABCB then called that method "too flexible", barred NatHERS software from it in 2019, and fixed its heating and cooling schedules, thermostat settings and occupancy in NCC 2022. Critics remember 2017, so show what changed.
-- **Scrutiny.** WA's Building and Energy regulator has energy efficiency in its 2025–26 audit focus, so surveyors will be cautious with anything unfamiliar.
+- **History.** In 2017 The Conversation and the ABC reported builders using the older reference-building method to pass houses "well short of the six-star standard". The ABCB then called that method "too flexible", barred NatHERS software from it (from 1 May 2021 in WA), and fixed its heating and cooling schedules, thermostat settings and occupancy in NCC 2022. Critics remember 2017, and WA sources describe the older method as widely used here before 2019, so show what changed.
+- **Scrutiny.** WA's Building and Energy regulator had energy efficiency, and building surveyors themselves, in its 2025–26 audit focus \[check 2026–27\], so surveyors will be cautious with anything unfamiliar.
 - **No side-by-side prices.** Few builders have ever seen the same house priced both ways.
 
-In WA, the NCC 2022 energy provisions (7 stars and whole-of-home) have applied to permit applications since 1 May 2025, with a WA variation that removes the separate NatHERS heating and cooling load limits. NCC 2025, released 1 May 2026 and mandatory in WA from 1 May 2027, keeps Part H6 and H6V2 substantively unchanged. The Commonwealth has also said there will be no further residential NCC changes, other than essential quality and safety measures, until mid-2029, so the rules this campaign explains should hold until then.
+In WA, the NCC 2022 energy provisions (7 stars and whole-of-home) have applied to permit applications since 1 May 2025, with a WA variation that removes the separate NatHERS heating and cooling load limits. NCC 2025, released 1 May 2026 and mandatory in WA from 1 May 2027, keeps the NCC 2022 requirements for Part H6, including H6V2. In August 2025 the Commonwealth also announced no further residential NCC changes, other than essential quality and safety measures, until mid-2029, so the rules this campaign explains should hold until then. One risk: in August–September 2026 the federal Opposition proposed a "Basic Australian Standard" that would make energy efficiency an optional extra. Don't echo it: a campaign that sounds anti-standard undercuts demand for any compliance service.
 
 ## Who pays, who decides
 
@@ -38,46 +38,47 @@ So win the builders whose incentives line up first, change the maths for the res
 
 ![Who pays, who decides: influence over the route against gain from cheaper compliance](Performance_Solutions_strategy_figures/who-pays-who-decides.png)
 
-Surveyors sit outside this map: they don't choose the route, but they can stop it, which is why they are briefed first.
+Surveyors sit outside this map: they don't choose the route, but they can stop it, which is why they are briefed first. CFS sits outside it too: it is the channel to builders, not a party to the choice.
 
 | Group | Lever | Line to use |
 | --- | --- | --- |
-| Fixed-price and package builders; developers and spec builders | A free Pathway Check on their standard plans, then standard-plan pricing | "Quote lower and win more jobs." |
-| Builders who mark up upgrades | Move the client's budget rather than cut it: money not spent on compliance can go on features the client wants, which the builder also prices | "Put your client's money into the kitchen, not the compliance." |
-| Builders' current energy assessors | Partner, don't replace: a referral or white-label arrangement for designs that struggle to reach 7 stars, so the assessor keeps the client and the NatHERS work | "Send us the jobs where the upgrade list hurts." |
-| Homeowners and first-home buyers | Content and search ads aimed at the moment a quote arrives | "Got a 7-star upgrade line in your quote? Ask whether the pathways were compared." |
+| Fixed-price and package builders; developers and spec builders | A free Pathway Check on their standard plans, then standard-plan pricing | "See whether your standard plans can quote lower." |
+| Custom and cost-plus builders | Move the client's budget rather than cut it: money not spent on compliance can go on features the client wants, which the builder also prices | "Put your client's money into the kitchen, not into upgrades the design doesn't need." |
+| Builders' current energy assessors | Partner, don't replace: a disclosed referral arrangement for designs that struggle to reach 7 stars, so the assessor keeps the client and the NatHERS work | "Send us the jobs where the upgrade list hurts." |
+| Homeowners and first-home buyers | Content and search ads aimed at the moment a quote arrives | "Building new? Ask your builder whether the energy pathways were compared." |
 | Centurion Framing | Opens doors to its builders, and could fund part of the fee on CFS-framed homes, disclosed | "Before you upgrade, compare the pathways." |
 | Regulator and industry bodies | A published method and constructive submissions | None: no campaign lines |
 
-**The fee gap.** On Thermarate's figures, a NatHERS assessment costs a builder about $200 and a Performance Solution about $2,000. For the homeowner, the Performance Solution pays once it removes more than about $1,800 of upgrades, plus any margin added to them.
+**The fee gap.** On Thermarate's figures, a NatHERS assessment costs a builder about $200 and a Performance Solution about $2,000. For the homeowner, the Performance Solution pays once the upgrades it removes, priced as the homeowner pays for them (including any margin), exceed about $1,800 plus any extra whole-of-home (H6P2) or surveyor cost on that route.
 
-Published Perth estimates put the whole 6-to-7-star upgrade at $4,262 to $7,179 per house, so break-even is plausible on many jobs. Only priced jobs will show how often.
+Published estimates of the extra cost of 7 stars run from under $2,500 (regulators' national modelling) to $4,262 (Perth, building shell only) and $7,179 (HIA, Perth; scope not confirmed). A Performance Solution removes only part of that, so how often it clears the fee gap is unknown until jobs are priced.
 
 Take the fee risk off the builder:
 
 - **Pathway Check first.** The builder sees the likely net saving before paying anything.
 - **One job, not a switch.** Ask builders to try it on one job where they already hold a NatHERS report with a painful upgrade list. Their assessor stays their assessor.
-- **A savings condition.** Charge the full fee only when the check shows a net saving of at least \[twice the fee\]; otherwise say so and charge nothing. Put the condition in writing.
+- **A savings condition.** Charge the fee only when the check shows a net saving above \[a threshold set from the first priced jobs\]; below it, say so, and the builder stays with NatHERS at no charge. Put the condition in writing.
 - **Let the beneficiary pay.** Show the fee on its own line beside the upgrades it removes, so the homeowner sees the net.
 - **Standard-plan pricing.** Pre-model a package builder's standard plans so the per-lot fee falls.
-- **A CFS contribution.** CFS covers part of the fee on CFS-framed homes, disclosed on every offer.
+- **A CFS contribution, if agreed.** CFS covers part of the fee on CFS-framed homes, disclosed on every offer.
 
-Never say in public that builders profit from upgrades. Marking up materials is ordinary pricing, CFS's customers are builders, and the line would cost you both the channel. Let the side-by-side numbers make the point.
+Never say in public that builders profit from upgrades (Guardrail 6).
 
 ## The savings case
 
 Savings are the hook, but no independent study of H6V2 savings has been published, so every dollar figure in the campaign must come from Thermarate's own priced jobs. Until those exist, claim the mechanism, not the amount.
 
-The mechanism: H6V2 compares a design with the Code's own Deemed-to-Satisfy version of the same house, not with a fixed star band. Where that benchmark is easier to meet than 7 stars for a particular design, fewer upgrades are needed. Where it isn't, NatHERS stays the cheaper route, and the Pathway Check says so.
+The mechanism: H6V2 compares a design with the Code's own Deemed-to-Satisfy version of the same house, not with a fixed star band. Where that benchmark is easier to meet than 7 stars for a particular design, fewer upgrades are needed. Where it isn't, NatHERS stays the cheaper route, and the Pathway Check says so. In WA the NatHERS route has no separate heating and cooling caps, while H6V2 must match the reference on both, so don't assume H6V2 wins: test it job by job. Watch whether its advantage concentrates in large homes (NatHERS adjusts for floor area; H6V2 compares the same house), which would invite a "big-house loophole" charge.
 
 Published estimates of what 7 stars costs, for context only (none is a Thermarate claim):
 
 | Source | Estimate | Caveat |
 | --- | --- | --- |
-| HIA, Perth base house (reported by TBB Planning) | About $7,179 extra per dwelling, saving about $310 a year in energy | Builders' lobby estimate, seen only second-hand |
+| HIA, Perth base house (reported by TBB Planning) | About $7,179 extra per dwelling, saving about $310 a year in energy | Industry association estimate, seen only second-hand |
 | Graham Energy for the Australian Glass and Window Association (Sept 2024) | Perth average of $4,262 to go from 6 to 7 stars | Paid for by the window industry; building shell only; least favourable orientation |
 | HIA consultation submission (2021), national | $13,257 per dwelling for the option later adopted for houses | Estimate made before adoption |
 | ABCB Decision Regulation Impact Statement (2022) | WA figure in its Table 6.1 | Extract it before quoting any official number |
+| Regulators' national modelling (quoted by the Green Building Council of Australia) | Under $2,500 per house on average; the ABCB put bill savings at about $185 a year for the whole NCC 2022 package | National average; which page carries the figure is uncertain |
 
 The $15,000 in the CFS example graphic is about twice the highest Perth estimate found, so it cannot run without Thermarate's own data behind it.
 
@@ -87,28 +88,30 @@ The $15,000 in the CFS example graphic is about twice the highest Perth estimate
 
 Build each case study the same way:
 
-1. Same plans, specified both ways: a 7-star NatHERS specification from an independent assessor, and Thermarate's H6V2 specification.
+1. Same plans, specified both ways: a 7-star NatHERS specification from an independent assessor, and Thermarate's H6V2 specification. Also have the H6V2 design rated in NatHERS (a "shadow rating"), so you know where your designs land before anyone else publishes it.
 2. The builder's own prices for both, plus every fee on each route (assessor, Thermarate, surveyor).
 3. The surveyor's written acceptance of the Performance Solution.
 4. The builder's sign-off on the saving, and permission to publish with client details removed.
-5. Results published as a range across jobs, including the ones where NatHERS was cheaper.
+5. Publish the first jobs as single, labelled examples; once there are enough, publish the range across all jobs, including the ones where NatHERS was cheaper.
 
 Keep that file for every number you publish. A promise of future savings is treated as misleading unless you can show reasonable grounds for it (ACL s4), and the ACCC can demand the evidence within 21 days (ACL s219).
 
-## Your four NatHERS points, checked
+## Four claims about NatHERS, checked
 
-Lead with point 2, use point 4 selectively and point 3 carefully, and drop point 1 as worded: it is wrong, and it is the line most likely to draw a complaint.
+Lead with claim 2, use claim 4 selectively and claim 3 carefully, and drop claim 1 as worded: it is wrong, and it is the line most likely to draw a complaint.
 
-Since 1 July 2026 NatHERS has a new public name, Home Energy Rating, and new-home certificates read "Home Energy Rating (NatHERS)". Use both names so readers recognise it.
+On 1 July 2026 the scheme launched a public brand, Home Energy Rating, with a new website, but compliance documents for new homes still say "NatHERS Certificate". Write "NatHERS (now branded Home Energy Rating)", and don't say the scheme was renamed.
 
-| Your point | Verdict | What the evidence shows | Say this instead |
+| Claim | Verdict | What the evidence shows | Say this instead |
 | --- | --- | --- | --- |
-| 1. NatHERS is a business that earns money from issuing certificates | Wrong as worded. Drop it | NatHERS is a joint scheme of the Commonwealth, state and territory governments, administered by DCCEEW; no fee to the Administrator was found. Money does flow around it: each certificate carries a software fee of roughly $27–45 plus GST, including a royalty of about $13 to CSIRO (a government agency) for its rating engine. FirstRate5 is owned by the Victorian Government. Assessors charge for their work. | "Around nine in ten new homes go the NatHERS route. That's habit, not law. Ask your assessor which pathways they can deliver." Then disclose your own interest: "We deliver Performance Solutions, so we'll also tell you when NatHERS is cheaper." |
-| 2. The star rating isn't what consumers think it is | True. Lead with it | NatHERS's own pages say a rating estimates how much heating or cooling a home needs to stay comfortable, using standard assumptions about occupants and thermostat settings. Appliances aren't counted, apart from ceiling-fan air flow, and actual use "may vary" because the assumptions won't match how people live. They call 7 stars "the minimum standard for new houses under the National Construction Code 2022". | "A star rating is a modelled estimate of the heating and cooling a design needs, under standard assumptions. NatHERS says real use will differ. And 7 stars is the minimum, not a medal." |
-| 3. The outputs rest on questionable assumptions | Partly true, but it cuts both ways | Studies found NatHERS's occupancy assumptions don't match how monitored households heat and cool (Daniel, Soebarto and Williamson 2015), and ratings correlated poorly with measured performance in five award-winning houses (Williamson, Soebarto and Radford 2010). Other studies found higher-rated homes do use less energy (CSIRO 2013; O'Leary and others 2016). H6V2 runs the same kind of simulation, with fixed thermostat settings, schedules and occupancy. | "Every compliance model rests on standard assumptions, ours included. The real question is whether the benchmark is fair for your design." Never "the ratings are wrong". |
-| 4. Many more issues | Use only those with evidence | Usable with care: a rating checks the design, not the finished house (measured air-tightness can't be used in a regulatory rating for new homes), and predicted heating and cooling energy per new dwelling rose 10.4% from 2018 to 2022 even though minimum standards were met (Wingrove, Heffernan and Daly 2024, 580,956 certificates). Don't use "ratings bear no relation to energy use" or "new homes are leakier than NatHERS assumes": both are contradicted by CSIRO's work. | "A rating checks the design, not the build. If performance matters to you, test the finished house." |
+| 1. NatHERS is a business that earns money from issuing certificates | Wrong as worded. Drop it | NatHERS is a joint scheme of the Commonwealth, state and territory governments, administered by DCCEEW; no fee to the Administrator was found. Each certificate does carry a software fee of roughly $27–45 plus GST, including a royalty of about $13 to CSIRO (a government agency) for its rating engine. FirstRate5 is owned by the Victorian Government. Assessors charge for their work. | "Nationally, around nine in ten new homes go the NatHERS route. That's common practice, not a legal requirement. Ask whether the pathways were compared for your design." Then disclose your own interest: "We deliver Performance Solutions, so we'll also tell you when NatHERS is cheaper." |
+| 2. The star rating isn't what consumers think it is | True. Lead with it | NatHERS's own pages say a rating estimates how much heating or cooling a home needs to stay comfortable, using standard assumptions about occupants and thermostat settings. Appliances aren't counted, apart from ceiling-fan air flow, and actual use "may vary" because the assumptions won't match how people live. They call 7 stars "the minimum standard for new houses under the National Construction Code 2022". | "A star rating is a modelled estimate of the heating and cooling a design needs, under standard assumptions. NatHERS itself says actual use may vary. And 7 stars is the minimum, not a medal." |
+| 3. The outputs rest on questionable assumptions | Partly true, but it cuts both ways | Studies found NatHERS's occupancy assumptions don't match how monitored households heat and cool (Daniel, Soebarto and Williamson 2015), and ratings correlated poorly with measured performance in five award-winning houses (Williamson, Soebarto and Radford 2010). Other studies point the other way: 5-star homes used less heating but more cooling energy, with emissions 7% lower (CSIRO 2013), and higher-rated Adelaide homes used less energy (O'Leary and others 2016). H6V2 runs the same kind of simulation, fixing thermostat settings, schedules, zoning, occupancy, internal gains, ventilation and infiltration, with historical weather. | "Every compliance model rests on standard assumptions, ours included. The real question is which route suits your design." Never "the ratings are wrong". |
+| 4. Many more issues | Use only those with evidence | Education only, because both points are true of H6V2 too: a rating checks the design, not the finished house (measured air-tightness can't be used in a regulatory rating for new homes), and predicted heating and cooling energy per new dwelling rose 10.4% from 2018 to 2022 even though minimum standards were met (Wingrove, Heffernan and Daly 2024, 580,956 certificates). Don't use "ratings bear no relation to energy use" or "new homes are leakier than NatHERS assumes": both are contradicted by CSIRO's work. | "A rating checks the design, not the build. If performance matters to you, test the finished house." Also safe, as education: "A star rating is per square metre, so two 7-star homes of different sizes can need very different amounts of energy" and "A star rating assumes air-conditioning is available; it doesn't show how hot the house gets without it." |
 
-On steel frames: CSIRO's thermal-bridging modelling for NCC 2022 found ratings fell in most climate zones once bridging was counted, "especially with metal framed construction". That makes 7 stars genuinely harder for steel-framed houses and is a fair reason to compare pathways. It is not evidence that NatHERS treats steel unfairly, so don't say it does.
+On steel frames: CSIRO's thermal-bridging modelling for NCC 2022 found ratings fell in most climate zones once bridging was counted (by about 0.2 to 0.4 stars in its sample house), "especially with metal framed construction". That makes 7 stars genuinely harder for steel-framed houses and is a fair reason to compare pathways. It is not evidence that NatHERS treats steel unfairly, so don't say it does. Nor does it show H6V2 is easier for steel: that depends on how the reference house treats the frame, so make no steel-specific claim until a priced steel job exists.
+
+The full register of 44 NatHERS issues, with safe wording for each, is in [NatHERS issues and limitations](reports/NatHERS%20issues%20and%20limitations.md).
 
 ## Positioning
 
@@ -122,14 +125,15 @@ Critique of NatHERS lives in one pillar, framed as education and sourced to NatH
 
 Tagline options:
 
-- **Same Code. Smarter pathway.** Recommended: it pairs legitimacy with the benefit.
+- **Same Code. Smarter pathway.** Recommended, and the campaign's name: it pairs legitimacy with the benefit.
 - **It's not a loophole. It's in the Code.** Best for the myth-busting series.
 - **7 stars is one way to comply. It isn't the only way.**
-- **Comply with the Code, not the habit.**
 
 Tone: calm, exact and a little contrarian. Plain words, short sentences and a clause behind every claim; confident about the Code, respectful of NatHERS and the assessors who use it.
 
-If Thermarate can also deliver NatHERS ratings, or quote one through a partner, say so. An adviser who offers both routes is more credible than a seller of one.
+If Thermarate can deliver NatHERS ratings, offer them only to builders without an assessor; otherwise the builder's own assessor does that work. Either way, the free check compares both routes, which is what makes Thermarate an adviser rather than a seller of one route.
+
+Go further than either route requires: offer a blower-door test and insulation check at handover, a re-check of product substitutions, a summer comfort check with the air-conditioning off, a future-climate run, independent review of every model, and an optional star rating through a partner assessor. These answer NatHERS's real blind spots with services rather than jabs, and they are the clearest way to stand apart, because most criticisms of NatHERS's modelling apply to H6V2 too.
 
 ## Audiences
 
@@ -139,9 +143,9 @@ Win the gatekeepers before the crowd. Building surveyors and Centurion Framing S
 | --- | --- | --- | --- | --- |
 | Building surveyors (private and local government) | An energy Performance Solution is unfamiliar, slow to assess and a liability risk; a reference building can be gamed | A Thermarate submission is complete, conservative and quick to assess | A standard design-brief template, a published modelling method, sensitivity checks, one technical contact | One-to-one briefings and a CPD session. First, before any public content |
 | Fixed-price, package and spec builders, starting with CFS's network | NatHERS 7 stars is the only route; anything else risks a knock-back | A second legal route can lower their price on the same plans, and Thermarate handles the paperwork | Priced side-by-side jobs on houses like theirs; a surveyor who has accepted one; a free check on their standard plans | CFS reps, newsletters and events; LinkedIn. First |
-| Builders who mark up upgrades (custom, cost-plus) | Upgrades are the client's cost, while a dearer assessment is theirs | The client's budget is better spent on features than on compliance, and a lower price wins jobs | The fee shown beside the upgrades it removes; one job, not a switch of assessor | LinkedIn, HIA and Master Builders WA events, and their clients' questions. From February 2027 |
+| Custom and cost-plus builders | Upgrades are the client's cost, while a dearer assessment is theirs | The client's budget is better spent on features than on compliance, and a lower price wins jobs | The fee shown beside the upgrades it removes; one job, not a switch of assessor | LinkedIn, HIA and Master Builders WA events, and their clients' questions. From February 2027 |
 | Building designers and drafters | Energy is an upgrade list that arrives after the design is done | Choosing the pathway at concept stage protects the design | Before-and-after examples where the glazing and layout survived | BDAWA events, LinkedIn, CPD. From February 2027 |
-| Builders' current energy assessors | Performance Solutions are a rival product or a loophole | Referring a design that struggles to reach 7 stars keeps their client and their NatHERS work | A referral or white-label arrangement, and a respectful tone | Direct outreach. From December 2026 |
+| Builders' current energy assessors | Performance Solutions are a rival product or a loophole | Referring a design that struggles to reach 7 stars keeps their client and their NatHERS work | A disclosed referral arrangement, and a respectful tone | Direct outreach. From December 2026 |
 | Homeowners and first-home buyers | 7 stars means a good house; anything else is second best | Both routes meet the same legal requirement, and they can ask whether the pathways were compared | Plain-English explainers that quote NatHERS itself, aimed at the moment a quote arrives | Search ads from February 2027; Facebook and Instagram from May |
 | WA regulator and industry bodies | Neutral to wary | Thermarate raises compliance standards rather than cutting corners | A transparent method, constructive submissions, no attacks on the scheme | Meetings and consultations. Ongoing |
 
@@ -149,28 +153,28 @@ Surveyors matter most. A builder who hears the message and then has a submission
 
 ## Campaign and channels
 
-Run one campaign, working title **It's in the Code**, through four content series. LinkedIn and the CFS network carry it to the trade, search catches builders when a design fails 7 stars, and Facebook and Instagram reach homeowners once case studies exist.
+Run one campaign under the line **Same Code. Smarter pathway.**, through four content series. LinkedIn and the CFS network carry it to the trade, search catches builders when a design fails 7 stars, and Facebook and Instagram reach homeowners once case studies exist.
 
-Every piece makes one point and names its source: an NCC clause, NatHERS's own words, or a priced Thermarate job.
+Every piece makes one point and names its source: an NCC clause, a NatHERS or ABCB page, a published study, or a priced Thermarate job.
 
 | Series | Job | Example | Formats |
 | --- | --- | --- | --- |
 | It's in the Code | Show the route is written into the NCC | "The NCC's energy rules for houses can be met by a Performance Solution or a Deemed-to-Satisfy Solution. A NatHERS rating is one option inside the second." | Single-image posts, carousels |
 | Same house, two pathways | Prove the savings on real, priced jobs | "Perth, climate zone 5, steel frame and brick veneer: what the 7-star route needed, what the Performance Solution needed, and what each cost" | Carousel, one-page PDF, 60-second video |
-| What's in a star? | Explain what a NatHERS rating does and doesn't measure | "A star rating is a modelled estimate made under standard assumptions. It isn't a meter reading." | Carousels, reels, homeowner ads |
+| What's in a star? | Explain what a NatHERS rating does and doesn't measure | "A star rating is a modelled estimate made under standard assumptions. It isn't a meter reading." | Carousels; reels and homeowner ads from May |
 | Ask the modeller | Answer objections in Alistair's or Fraser's own voice | "Will my surveyor accept it?" | 60-second videos, text posts |
 
 | Channel | Job | Starts |
 | --- | --- | --- |
-| LinkedIn: Alistair's and Fraser's profiles, plus the Thermarate page | The main trade channel. The founders post; the page and CFS reshare | November organic; paid targeting of WA builders, designers and surveyors from February |
-| CFS network | A trusted introduction to steel-frame builders: newsletter items, rep talking points, co-hosted breakfasts | November |
-| Google search and a landing page | Catch builders searching after a failed rating or a big upgrade quote; every ad leads to the free Pathway Check | February |
-| CPD and events | Surveyors (AIBS), designers (BDAWA), builders (HIA, Master Builders WA, CFS breakfasts) | November for surveyors, then quarterly |
+| LinkedIn: Alistair's and Fraser's profiles, plus the Thermarate page | The main trade channel. The founders post; the page and CFS reshare | Organic from 30 November; paid targeting of WA builders, designers and surveyors from February |
+| CFS network | A trusted introduction to steel-frame builders: newsletter items, rep talking points, co-hosted breakfasts | From 30 November |
+| Landing page and Google search | The landing page takes Pathway Check requests; search ads catch builders and homeowners after a failed rating or a big upgrade quote | Landing page from 30 November; search ads from February |
+| CPD and events | Surveyors (AIBS), designers (BDAWA), builders (HIA, Master Builders WA, CFS breakfasts) | Surveyor CPD in December, then quarterly |
 | Facebook | Builder and owner-builder groups (within group rules), retargeting, then homeowner explainers | February; homeowners from May |
 | Instagram | Visual explainers for homeowners, recut from the LinkedIn material | May |
 | Trade media | Technical articles and survey results that make the case on neutral ground | March onwards |
 
-Pete's email proposes LinkedIn, Instagram and Facebook. Add search, CPD and direct surveyor briefings to The Marketing Room's brief: social reach creates interest, but surveyor confidence and a clear next step turn it into jobs.
+Pete Robbins' email proposes LinkedIn, Instagram and Facebook. Add search, a landing page and CPD support to The Marketing Room's brief, while Thermarate runs the surveyor briefings itself: social reach creates interest, but surveyor confidence and a clear next step turn it into jobs.
 
 ## From post to project
 
@@ -182,6 +186,8 @@ Telling a builder to stay with NatHERS when that is cheaper is part of the offer
 
 - **What the builder sends:** plans, elevations, specification, location, and any NatHERS report or upgrade quote they already hold. A job with a painful upgrade list is the best first job, and the builder keeps their assessor.
 - **What they get back:** the likely cheapest compliant route, the upgrades each route needs, the net saving after every fee, and the surveyor steps.
+- **Screening questions:** floor area, the balance of heating to cooling, and framing. Large homes are the likeliest H6V2 wins; small homes and cooling-heavy designs are likelier to stay with NatHERS. Treat these as hypotheses until priced jobs confirm them.
+- **Homeowners can ask too:** they send the plans their builder supplied, and the answer goes to both of them.
 - **Turnaround:** publish a number of business days you can always meet. Cap free checks per week if capacity is tight, and give CFS-network builders priority in the trade launch.
 - **Fee:** one of the options in Who pays, who decides, settled before the trade launch.
 - **After every job:** ask permission to publish a priced case study with client details removed, and record the saving the builder confirms.
@@ -194,20 +200,28 @@ Build proof before reach: five weeks of foundations, a trade launch through CFS 
 
 Each gate is a go/no-go check. If its criteria aren't met, extend the phase before it rather than spending more on reach. The industry's summer shutdown (late December to mid-January) is the natural break between the trade and public launches.
 
+| Gate | Date | Go if |
+| --- | --- | --- |
+| A | 27 Nov 2026 | Claims list signed off by the lawyer; fee model set, including any CFS contribution; five surveyors briefed |
+| B | Late January 2027 | Three priced case studies, each with surveyor acceptance and builder sign-off; no rejected submissions |
+| C | 30 April 2027 | Still no rejected submissions; Pathway Checks at the target set in the first eight weeks |
+
+Acceptance of every submission first time is an aim (see Measures), not a gate: one routine request for information shouldn't stop the scale-up.
+
 ## Objections
 
 Answer the loophole question with the Code and the 2019 and 2022 fixes, and every other question with process and a plain admission of the trade-offs.
 
 | Question | Answer |
 | --- | --- |
-| Isn't this a loophole? | No. The NCC lists a Performance Solution as one of its three ways to comply (A2G1), and H6V2 is a Verification Method in the Code itself. The older method was misused before 2019; the ABCB tightened it in 2019 and again in NCC 2022, and we agree every assumption with your surveyor before modelling. |
-| A NatHERS assessment costs about $200. Why pay about $2,000? | Compare the total, not the fee. The Performance Solution covers two models, the design brief, surveyor liaison and a report, and it pays once it removes more than about $1,800 of upgrades. The free Pathway Check shows whether it will before anyone pays. |
-| Won't this cut my margin on upgrades? | It moves it. The client's budget can go on features they want, which you also price, and a lower price wins more jobs. |
+| Isn't this a loophole? | No. The NCC lists a Performance Solution as one of its three ways to comply (A2G1), and H6V2 is a Verification Method in the Code itself. The older method was misused, including in WA; the ABCB tightened it in NCC 2019 (in force in WA from 1 May 2021) and again in NCC 2022, and we agree every reference assumption with your surveyor before the compliance modelling. In WA it is also stricter than the NatHERS route in one way: heating and cooling must each be no worse than the reference. |
+| A NatHERS assessment costs about $200. Why pay about $2,000? | Compare the total, not the fee. The Performance Solution covers two models, the design brief, surveyor liaison and a report, and it pays once the upgrades it removes cost more than about $1,800 plus any extra whole-of-home cost. The free Pathway Check shows whether it is likely to before anyone pays. |
+| Won't this cut my margin on upgrades? (Sales conversations only, never public.) | It moves it. The client's budget can go on features they want, which you also price, and where it lowers the price, that helps win jobs. |
 | We're happy with our energy assessor. | Keep them. Send us the one job where the upgrade list hurts; your assessor still does your NatHERS work, and we're happy to work with them. |
-| Will my surveyor accept it? | In WA the registered building surveyor approves a Performance Solution when issuing the Certificate of Design Compliance. We agree the design brief with them first, as the NCC requires, so the acceptance criteria are settled before any modelling. \[Add: submissions accepted to date.\] |
-| Is the house less efficient than a 7-star house? | It meets the same Performance Requirement (H6P1): its modelled heating and cooling loads are no higher than those of the same house built to the Code's Deemed-to-Satisfy specifications. It has no star rating, so we don't claim a star equivalent. |
-| Does it cover whole-of-home energy (H6P2)? | No. H6V2 covers heating and cooling (H6P1). Whole-of-home (H6P2) is met separately, through the Deemed-to-Satisfy provisions or a NatHERS Whole of Home rating, and solar panels can't make up for the building fabric. We'll say which route suits. |
-| Will my client need a star rating for a loan or a sale? | Possibly. Green home loans such as Bank Australia's and CommBank's have required a NatHERS certificate, usually above the minimum (Bank Australia asks for 7.5 stars, all-electric, with solar). The ACT requires an energy rating in sale ads. If that matters, budget for a rating as well. \[Check current lender criteria.\] |
+| Will my surveyor accept it? | In WA the registered building surveyor approves a Performance Solution when issuing the Certificate of Design Compliance. We prepare the design brief with them first; the NCC requires a design brief for every Performance Solution (A2G2(4)). \[Add: submissions accepted to date.\] |
+| Is the house less efficient than a 7-star house? | By the Code's measure, no: its modelled heating and cooling loads are no higher than those of the Deemed-to-Satisfy version of the same house, which is what H6P1 requires. Rated with NatHERS, some designs might score below 7 stars, so we don't claim a star equivalent. |
+| Does it cover whole-of-home energy (H6P2)? | No. H6V2 covers heating and cooling (H6P1). Whole-of-home (H6P2) is met separately, through the Deemed-to-Satisfy provisions or a NatHERS Whole of Home rating, and solar panels can't make up for the building fabric. If a NatHERS Whole of Home rating is used, check how its thermal star rating will read to buyers and lenders. We'll say which route suits. |
+| Will my client need a star rating for a loan or a sale? | Increasingly, yes. Green home loans such as Bank Australia's and CommBank's have required a NatHERS certificate of at least 7 stars, often with extras, and the new Home Energy Rating brand is meant to help banks assess green loans. The ACT requires a rating in sale ads, ACT 7-star homes have sold for up to 9.4% more than 3-star homes, and NSW disclosure starts on a voluntary basis in 2026. An H6V2 home has no star certificate, so where it matters we arrange an optional rating through an accredited assessor. \[Check current lender criteria.\] |
 | Is H6V2 being phased out? | No. NCC 2025 keeps it, and residential NCC changes are paused until mid-2029 except for essential quality and safety measures. |
 | Does it take longer? | There is one extra step: agreeing the design brief with the surveyor. We start it on day one. \[Add typical turnaround.\] |
 | What if the design changes? | The model is re-run, as a NatHERS rating would be. A material change may need the surveyor's agreement again. |
@@ -220,12 +234,12 @@ Answer the loophole question with the Code and the 2019 and 2022 fixes, and ever
 Eight rules keep the campaign credible and out of trouble. Have a lawyer check the claims list before Gate A; the legal points here are background for that review, not advice.
 
 1. **Every claim has a source on file:** an NCC clause, a NatHERS or ABCB page, a published study, or a priced Thermarate job. The quotes in this document come from search-engine extracts because the source sites were blocked from this session, so check each one on the live page before it is published.
-2. **No dollar figures until real jobs exist.** No "no extra cost", no averages, and no "up to" figure unless it is typical. Conditions sit beside the headline, not in fine print. A savings condition on the fee is a promise: word it precisely and honour it.
+2. **No savings figures until real jobs exist.** No "no extra cost", no averages, and no "up to" figure unless it is typical. Conditions sit beside the headline, not in fine print. A savings condition on the fee is a promise: word it precisely and honour it.
 3. **Never say the result equals 7 stars.** Say both routes can meet the same Performance Requirement (H6P1). A Performance Solution has no star rating.
 4. **Use the NatHERS name, never its marks.** The NatHERS trade mark guidelines reserve the logo and rating image for authorised users such as accrediting organisations, approved assessors and software providers; even non-accredited assessors may not use them "for any purpose". A look-alike star graphic could also imply an affiliation (ACL s29).
 5. **Criticise ideas, never people or firms.** Don't name software vendors, accrediting bodies or assessors, or suggest bad faith. In WA, companies with fewer than 10 employees and not-for-profits can sue for defamation, and anyone can sue for injurious falsehood.
-6. **Never accuse builders of profiting from upgrades.** It is ordinary pricing, and CFS's customers are builders. Let the side-by-side numbers make the point.
-7. **Disclose the partnership.** Every CFS email and co-branded post says plainly that CFS and Thermarate have a commercial relationship, including any CFS contribution to fees. If any Thermarate staff hold NatHERS accreditation, check their accrediting body's code of conduct and the certificate conflict-of-interest rules first.
+6. **Never accuse builders of profiting from upgrades.** It is ordinary pricing, and CFS's customers are builders. Let the side-by-side numbers show the saving.
+7. **Disclose the partnership.** Every CFS email and co-branded post says plainly that CFS and Thermarate have a commercial relationship, including any CFS contribution to fees. Referral arrangements with assessors are disclosed the same way. If any Thermarate staff hold NatHERS accreditation, check their accrediting body's code of conduct and the certificate conflict-of-interest rules first.
 8. **Real images, real people.** Use photos of real projects with permission, or label images as illustrative. Testimonials must be genuine.
 
 The CFS example graphic needs these fixes before any use. The Marketing Room has already seen it, so tell them now.
@@ -233,31 +247,31 @@ The CFS example graphic needs these fixes before any use. The Marketing Room has
 | Element | Problem | Fix |
 | --- | --- | --- |
 | "$15,000" extra for 7 stars against "$0" for the Performance Solution | No evidence behind either figure; about twice the highest Perth estimate found, and it ignores the fee gap | Replace with one real priced job, net of all fees, labelled as one example with its assumptions shown |
-| "Estimated saving $500 per year" from 7 stars | Concedes the Performance Solution house uses more energy, which feeds the loophole story | Remove |
+| "Estimated saving $500 per year" from 7 stars | No basis for the figure (HIA's Perth estimate is about $310 a year for the whole 6-to-7-star step), and nobody has measured the running-cost difference | Remove |
 | Savings "reducing by 5% per year", the 49-year payback and "$81 per month" | Built on invented inputs; nothing supports falling savings | Remove the whole payback panel |
 | "Same NCC compliant outcome" and "same approved outcome" | Approval is the surveyor's call, and "same outcome" invites a 7-star comparison | "Both routes can meet the same NCC Performance Requirement" |
-| "Thermarate High Performance Insulation" and the "insulation system" | No such product found; probably invented by the AI tool | Confirm it exists, or remove |
+| "Thermarate High Performance Insulation" and the "insulation system" | No such product found | Confirm it exists, or remove |
 | The "7.0 NatHERS rating" star badge | Resembles the NatHERS rating image, which only authorised users may use | Remove; use plain text |
 | "Comparing to a Deemed-to-Satisfy reference building (H6P1)" | The method is H6V2; H6P1 is the requirement it verifies | "Compared with a Deemed-to-Satisfy reference building (H6V2)" |
 | The AI-generated house photo | Could read as a real project | Use a real project photo, or label it illustrative |
 
 ## Measures
 
-Judge the campaign on approved Performance Solutions and builder-confirmed savings, not on reach. Take a baseline in November with a five-question survey through CFS and LinkedIn, and repeat it at six and twelve months.
+Judge the campaign on approved Performance Solutions and builder-confirmed savings, not on reach. Take a baseline in November with a five-question survey through CFS and LinkedIn, and repeat it in May and October 2027.
 
 Baseline survey:
 
 1. Which of these can show a new house meets the NCC energy requirements? (NatHERS rating; elemental Deemed-to-Satisfy; Performance Solution; don't know)
 2. Is a Performance Solution a legitimate way to comply, or a loophole?
-3. On your last job, did anyone offer you a choice of compliance pathway?
+3. On your last job, were the compliance pathways compared?
 4. Roughly what did energy-compliance upgrades add to your last house? (cost ranges)
 5. Would you use a Performance Solution if your surveyor had accepted one before?
 
-The results double as content. "Most WA builders we surveyed had never been offered a choice" is a strong headline, but only if the data says so; publish the sample size and method with it.
+The results double as content. "Most WA builders we surveyed hadn't compared pathways" is a strong headline, but only if the data says so; publish the sample size and method with it.
 
 | Measure | Why it matters | Target |
 | --- | --- | --- |
-| Surveyor acceptance on first submission | Credibility with the gatekeepers | 100%; log every request for information |
+| Surveyor acceptance on first submission | Credibility with the gatekeepers | Aim for 100% (an aim, not a gate); log every request for information |
 | Pathway Checks requested per month | Demand the campaign creates | Set after the first eight weeks |
 | Who asked for each check: builder, homeowner or assessor | Shows which incentive levers work | Track monthly |
 | Checks that become paid jobs | Whether the offer and fee model work | Track monthly |
@@ -271,21 +285,28 @@ The results double as content. "Most WA builders we surveyed had never been offe
 
 ## Next steps
 
-Thirteen tasks get the campaign to Gate A on 27 November 2026. The first two are urgent: The Marketing Room already has Pete's graphic, and the fee model shapes everything CFS says.
+Sixteen tasks get the campaign to Gate A on 27 November 2026, and four more carry it to the public launch and NCC 2025. The first two are urgent: The Marketing Room already has Pete's graphic, and the fee model shapes everything CFS says.
 
-- [ ] Share this doc with Kat at The Marketing Room as the brief, and ask for a proposal covering LinkedIn, search, the landing page and CPD, not only social. @Alistair, by Oct 28, 2026
-- [ ] Tell Pete the example graphic is on hold until it is fixed; agree the partnership terms, the disclosure wording, and whether CFS will fund part of the fee. @Alistair, by Oct 30, 2026
+- [ ] Share this doc with Kat Rafferty at The Marketing Room as the brief, and ask for a proposal and budget range covering LinkedIn, search, the landing page and CPD support, not only social. @Alistair, by Oct 28, 2026
+- [ ] Tell Pete Robbins at CFS that the example graphic is on hold until it is fixed, and agree the partnership terms and disclosure wording. @Alistair, by Oct 30, 2026
 - [ ] Confirm whether anyone at Thermarate holds NatHERS accreditation, and whether "Thermarate High Performance Insulation" is real. Fraser, by Oct 30, 2026
-- [ ] Decide the fee model: the savings condition, standard-plan pricing, and who is invoiced. @Alistair and Fraser, by Nov 6, 2026
+- [ ] Confirm how whole-of-home (H6P2) is met on the Performance Solution route, and what it adds to the fee. Fraser, by Oct 30, 2026
+- [ ] Agree the fee model with Pete: the savings condition, standard-plan pricing, who is invoiced, and any CFS contribution. @Alistair and Fraser, by Nov 6, 2026
+- [ ] Book briefings with five WA building surveyors, starting with any who have accepted a Thermarate submission. @Alistair, by Nov 6, 2026
 - [ ] Pick three past jobs that can be priced both ways, net of fees, and ask those builders' permission to publish. Fraser, by Nov 13, 2026
 - [ ] Write the one-page modelling method and a sample design brief for surveyors. Fraser, by Nov 13, 2026
-- [ ] Book briefings with five WA building surveyors, starting with any who have accepted a Thermarate submission. @Alistair, by Nov 20, 2026
-- [ ] List the energy assessors your builders already use, and draft referral terms for them. @Alistair, by Nov 20, 2026
-- [ ] Check every quote in this doc on its live page, and pull the WA figure from Table 6.1 of the ABCB Decision RIS. Fraser, by Nov 20, 2026
-- [ ] Send the claims list to a lawyer: savings wording, the fee condition, NatHERS references, the CFS partnership and any accreditation questions. @Alistair, by Nov 20, 2026
-- [ ] Run the baseline survey through CFS's builder list and LinkedIn. Pete (CFS) with Thermarate, by Nov 27, 2026
-- [ ] Put the landing page and Pathway Check form live. Kat (The Marketing Room), by Nov 27, 2026
+- [ ] Compile the claims list: every public claim, its source and its exact wording. Fraser, by Nov 13, 2026
+- [ ] Check every quote in this doc on its live page, and pull the WA figure from Table 6.1 of the ABCB Decision RIS. Fraser, by Nov 13, 2026
+- [ ] Send the claims list to a lawyer: savings wording, the fee condition, NatHERS references, the CFS partnership, assessor referral terms and any accreditation questions. @Alistair, by Nov 20, 2026
+- [ ] List the energy assessors your builders already use, and draft disclosed referral terms. @Alistair, by Nov 20, 2026
+- [ ] Hold the five surveyor briefings. @Alistair, by Nov 25, 2026
+- [ ] Run the baseline survey through CFS's builder list and LinkedIn. Pete with Thermarate, by Nov 27, 2026
+- [ ] Have the landing page and Pathway Check form ready for the Gate A review, to go live on 30 November if it passes. Kat, by Nov 27, 2026
 - [ ] Hold the Gate A review. @Alistair, on Nov 27, 2026
+- [ ] Commission independent 7-star specifications for the three case-study jobs, ideally from partner assessors. Fraser, by Dec 11, 2026
+- [ ] Use a priced steel-frame job to confirm whether H6V2 helps steel framing; until then, tell Pete there will be no steel-specific claim. Fraser, by Jan 22, 2027
+- [ ] Brief WA's Building and Energy regulator on the published method before the public launch. @Alistair, by Jan 29, 2027
+- [ ] Re-check every clause reference against NCC 2025 before it becomes mandatory in WA on 1 May 2027. Fraser, by Apr 15, 2027
 
 ## Sources
 
@@ -331,7 +352,7 @@ As of Oct 22, 2026. The source sites were blocked from this session, so every qu
 - [Daniel, Soebarto and Williamson (2015), Energy and Buildings](https://doi.org/10.1016/j.enbuild.2014.11.060)
 - [O'Leary, Belusko, Whaley and Bruno (2016), Energy and Buildings](https://doi.org/10.1016/j.enbuild.2016.03.025)
 - [Wingrove, Heffernan and Daly (2024), Building Research & Information](https://doi.org/10.1080/09613218.2023.2301574)
-- [CSIRO, Air infiltration of new dwellings in Australia (2025)](https://www.homeenergyrating.gov.au/sites/default/files/2025-10/CSIRO%20Air%20Infiltration%20of%20New%20Dwellings%20in%20Australia%20Report.pdf)
+- [CSIRO, Air infiltration of new dwellings in Australia (2024; sample excludes Perth)](https://www.homeenergyrating.gov.au/sites/default/files/2025-10/CSIRO%20Air%20Infiltration%20of%20New%20Dwellings%20in%20Australia%20Report.pdf)
 
 **History of the reference-building method**
 
